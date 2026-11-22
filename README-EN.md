@@ -4,6 +4,8 @@ This folder contains the original IYC 2026 photos, course materials, participant
 
 ## Start the archive portal
 
+After cloning, install Git LFS and run `git lfs pull` in the repository to download the original photos, course materials, documents and videos.
+
 From this folder, run:
 
 ```bash
